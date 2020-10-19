@@ -5,7 +5,7 @@
 You will need the following programs available:
 
 - git
-- python3 test1
+- python3 
 - conda ([download/install conda](https://www.anaconda.com/distribution/))
 
 Once these are properly installed and configured, you are ready to begin.  First, you will need to fork this repository, then,
